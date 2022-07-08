@@ -2,7 +2,7 @@
 
 👀 I’m interested in CFD, numerical analysis and scientific programming.
 
-🌱 I’m currently learning Python, machine learning and GPU computing.
+🌱 I’m currently learning Python, Fortran, C, machine learning and GPU computing.
 
 💞️ I’m looking to collaborate on open-source fluid dynamics software.
 
